@@ -1,8 +1,9 @@
 # OPEN-SOURCE-EX-2
 
-# NAME:L JESSICA EFFROSINI
-# REG NO: 212224110026
-# Aim
+# NAME:Vaishnavi R Nair
+# REG NO: 212224110058
+# Dept: cse(iot)
+# Aim:
 
 To configure SELinux in Red Hat Enterprise Linux so that a web server running on port 82 can successfully serve content from the directory /var/www/html without altering or removing existing files.
 # Output:
